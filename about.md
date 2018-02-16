@@ -13,7 +13,7 @@ Please support us by :
 * [Youtube](https://youtube.com/c/aijournal)
 * [Patreon]( https://patreon.com/aijournal)
 
-Connect with us on [Twitter](https://twitter.com/aijournalyt
+Connect with us on [Twitter](https://twitter.com/aijournalyt)
 
 
 Thanks for reading!

@@ -8,12 +8,12 @@ permalink:        pretty
 # Setup
 title:            AI Journal
 tagline:          'Artificial Intelligence | Machine learning | Deep learning | NLP | Reinforcement learning'
-description:      'Subscribe to our Youtube channel'
+description:      Making AI accessible | Democraticizing AI
 url:              http://aijournal.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'AI Journal'
   url:            https://twitter.com/aijournalyt
 
 paginate:         5
