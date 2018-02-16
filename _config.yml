@@ -26,4 +26,7 @@ google_analytics: UA-101180150-1
 github:
   repo:           https://github.com/aijournal
 
+plugins:
+  - jekyll-seo-tag
+
 gems: [jekyll-paginate,jekyll-gist]
