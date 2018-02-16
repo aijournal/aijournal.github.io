@@ -10,7 +10,7 @@ title:            AI Journal
 tagline:          'Artificial Intelligence | Machine learning | Deep learning | NLP | Reinforcement learning'
 description:      'Subscribe to our Youtube channel'
 url:              http://aijournal.github.io
-baseurl:          https://github.com/aijournal/aijournal.github.io/
+baseurl:          /
 
 author:
   name:           'Mark Otto'
