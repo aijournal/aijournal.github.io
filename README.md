@@ -1,2 +1,1 @@
-# aijournal.github.io
-Website
+Website 
