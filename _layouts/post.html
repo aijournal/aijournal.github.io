@@ -9,11 +9,8 @@ layout: compress
 <body class="site">
 
 {% if site.google_tag_manager %}
-<article id="page">
-         {% include ads1.html %}
-         {{ content }}
+{% include ads1.html %}
 
-</article>
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
@@ -104,12 +101,8 @@ layout: compress
     <div class="comments">
       <div class="container">
         <div class="post-content">
-          <article id="page">
-         {% include ads1.html %}
-         {{ content }}
-
-         </article>
-         
+          
+         {% include ads2.html %}
           {% include disqus.html %}
 
         </div>
